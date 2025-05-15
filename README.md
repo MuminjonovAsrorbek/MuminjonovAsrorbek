@@ -32,6 +32,7 @@
 Agar biror loyiha yoki hamkorlik haqida suhbatlashmoqchi bo‘lsangiz:
 - Telegram: [@kompyuterchi_aka](https://t.me/kompyuterchi_aka)
 - Email: muminjonovasrorbek@gmail.com
+- Leetcode: https://leetcode.com/u/Mr_Tarmoq/
 
 ---
 
