@@ -1,7 +1,7 @@
 ### 👋 Assalomu alaykum, men Java Backend Developer-man!
 
 💻 Men hozirda **PDP Academy**da Java backend yo‘nalishida tahsil olyapman.  
-📚 8-modulga yetib kelganman va Spring Framework, Telegram botlar, REST API, PostgreSQL bilan ishlash bo‘yicha tajribam bor.  
+📚 9-modulga yetib kelganman va Spring Framework, Telegram botlar, REST API, PostgreSQL bilan ishlash bo‘yicha tajribam bor.  
 🚀 O‘zbekistonda foydali texnologik mahsulotlar yaratishni, xususan, o‘zbek tilida o‘yinlar, ilmiy va madaniy platformalar ishlab chiqishni maqsad qilganman.
 
 ---
