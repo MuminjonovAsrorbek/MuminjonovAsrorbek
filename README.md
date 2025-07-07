@@ -24,7 +24,6 @@
 - RESTful API, JSON  
 - File I/O, Scheduling (cron jobs)  
 - Git, GitHub  
-- Android Studio & Flutter (boshlang‘ich darajada)  
 
 ---
 
