@@ -22,7 +22,8 @@
 
 ### 🛠 Technologies:
 
-- Java, Spring, Spring Boot 
+- Java, Spring, Spring Boot
+- Docker , RabbitMQ
 - PostgreSQL, MySql, MongoDB  
 - Telegram Bot , Telegram Webhook
 - RESTful API, JSON   
@@ -34,8 +35,8 @@
 If you want to talk about a project or collaboration:
 - Telegram: [@kompyuterchi_aka](https://t.me/kompyuterchi_aka)
 - Email: muminjonovasrorbek@gmail.com
-- Leetcode: https://leetcode.com/u/Mr_Tarmoq/
-- Linkedln: www.linkedin.com/in/asrorbekmuminjonov
+- Leetcode: [Asrorbek](https://leetcode.com/u/Mr_Tarmoq/)
+- Linkedln: [Asrorbek](www.linkedin.com/in/asrorbekmuminjonov)
 
 ---
 
