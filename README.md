@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salom!%20Men%20Asrorbek%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20from%20Tashkent%2C%20Uzbekistan&descSize=18&descAlignY=55" width="100%" alt="header"/>
 
 <!-- 🔤 Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Microservices+%7C+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+%26+Secure+Backend+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Microservices+%7C+Clean+Architecture;Building+Scalable+%26+Secure+Backend+Systems+%F0%9F%9A%80;Clean+Code+%7C+SOLID+Principles+%7C+REST+APIs)](https://git.io/typing-svg)
 
 ---
 
