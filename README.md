@@ -4,15 +4,15 @@
 
 <div align="center">
 
-<!-- 🌊 Wave Banner -->
+<!-- Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salom!%20Men%20Asrorbek%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20from%20Tashkent%2C%20Uzbekistan&descSize=18&descAlignY=55" width="100%" alt="header"/>
 
-<!-- 🔤 Typing SVG -->
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Microservices+%7C+Clean+Architecture;Building+Scalable+%26+Secure+Backend+Systems+%F0%9F%9A%80;Clean+Code+%7C+SOLID+Principles+%7C+REST+APIs)](https://git.io/typing-svg)
 
 ---
 
-<!-- 🔗 Social Badges -->
+<!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-MuminjonovAsrorbek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuminjonovAsrorbek)
 [![Email](https://img.shields.io/badge/Gmail-muminjonovasrorbek@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muminjonovasrorbek@gmail.com)
 [![Website](https://img.shields.io/badge/Website-me.javadev.uz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://me.javadev.uz)
@@ -34,18 +34,18 @@ public class Asrorbek extends JavaDeveloper {
     String website  = "https://me.javadev.uz";
     String email    = "muminjonovasrorbek@gmail.com";
 
-    String[] currentWork   = {"TenzorSoft — Backend Developer (Oct 2025 - Present)"};
-    String[] education     = {
+    String[] currentWork = {"TenzorSoft — Backend Developer (Oct 2025 - Present)"};
+    String[] education   = {
         "Computer Engineering @ TUIT (GPA: 4.3/5.0)",
         "Java Backend Development @ PDP Academy"
     };
-    String[] focus         = {"Microservices", "Clean Architecture", "REST APIs"};
-    String   funFact       = "I read docs before Stack Overflow �";
+    String[] focus       = {"Microservices", "Clean Architecture", "REST APIs"};
+    String   funFact     = "I read the docs before Stack Overflow 📖";
 }
 ```
 
 - 🏗️ &nbsp; Building **scalable backend systems** with Java & Spring Boot at **TenzorSoft**
-- �️ &nbsp; Studying **Computer Engineering** at Tashkent University of Information Technologies (TUIT) — GPA: **4.3/5.0**
+- 🎓 &nbsp; Studying **Computer Engineering** at Tashkent University of Information Technologies (TUIT) — GPA: **4.3/5.0**
 - 🔌 &nbsp; Experienced in integrating with **government systems** and the **Interagency Integration Platform (IIP)**
 - 🤖 &nbsp; Built a **Telegram bot** for plant disease detection using ML & REST API (AgroCheck StartUp)
 - 📐 &nbsp; Advocate of **Clean Architecture**, **SOLID Principles**, and **Microservices**
@@ -101,7 +101,7 @@ public class Asrorbek extends JavaDeveloper {
 
 ---
 
-## � Work Experience
+## 💼 Work Experience
 
 <details open>
 <summary>🏢 <b>TenzorSoft</b> — Java Backend Developer &nbsp;<code>Oct 2025 – Present</code></summary>
@@ -163,14 +163,10 @@ public class Asrorbek extends JavaDeveloper {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack |
 |:---:|:---:|:---:|
-| [**Project One**](https://github.com/MuminjonovAsrorbek) | �️ Microservices backend with IIP integration | `Spring Boot` `Docker` `PostgreSQL` |
-| [**AgroCheck Bot**](https://github.com/MuminjonovAsrorbek) | 🤖 Telegram bot for plant disease detection via ML | `Java` `Spring Boot` `Telegram API` |
-| [**Project Three**](https://github.com/MuminjonovAsrorbek) | � Secure REST API with Keycloak auth | `Spring Security` `Keycloak` `JWT` |
-| [**Project Four**](https://github.com/MuminjonovAsrorbek) | 📊 Real-time data pipeline with messaging | `RabbitMQ` `Redis` `MongoDB` |
+| [**🚗 Rent-Car Backend API**](https://github.com/MuminjonovAsrorbek/Rent-Car) | The Rent-Car Backend is a comprehensive API that powers a full-featured car rental platform. It provides essential functionalities including user management, vehicle inventory management, booking system, payment processing, notifications, and location tracking. | `Java` `Spring Boot` `PostgreSQL` |
+| [**🏥 Hospital Management System (HMS)**](https://github.com/MuminjonovAsrorbek/HMS-Project) | The HMS is a full-stack web application built to streamline hospital operations and improve patient care efficiency. The system provides a secure, role-based platform where different hospital staff members can perform their specific duties with appropriate access controls. | `Java` `Spring Boot` `Spring Security` |
 
 </div>
-
-> 💡 *Haqiqiy repo havolalaringiz bilan almashtiring!*
 
 ---
 
